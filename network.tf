@@ -3,7 +3,7 @@ resource "aws_vpc" "minha_vpc" {
   instance_tenancy = "default"
 
   tags = {
-    Name = "edn_ft_clc13_vpc"
+    Name = "ednaldo_ft_clc13_vpc"
   }
 }
 
